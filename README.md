@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Appointment Booking System
 
 A responsive appointment booking interface built with HTML, CSS, JavaScript, and React.
@@ -36,3 +37,6 @@ A responsive appointment booking interface built with HTML, CSS, JavaScript, and
 - `styles.css`: Complete styling
 - `script.js`: JavaScript functionality
 - `AppointmentBooking.jsx`: React component implementation
+=======
+# appAppointment-Booking
+>>>>>>> 48853e489cde9067a505828c0764abff92544f29
